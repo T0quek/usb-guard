@@ -52,7 +52,7 @@ Skrypt PowerShell typu **fail-closed**, który wykorzystuje wbudowane zasady ins
 
 ## Instalacja
 
-Uruchom PowerShell **jako administrator**:
+Uruchom PowerShell **jako administrator!**:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
